@@ -1,0 +1,141 @@
+{
+ "chunks": [
+  {
+   "name": "hall_structure",
+   "file": "hall_structure.glb",
+   "tris": 45776,
+   "bounds": [
+    [
+     -11.7,
+     1.25,
+     -0.28
+    ],
+    [
+     11.7,
+     20.44,
+     -17.7
+    ]
+   ]
+  },
+  {
+   "name": "hall_props",
+   "file": "hall_props.glb",
+   "tris": 71402,
+   "bounds": [
+    [
+     -11.7,
+     0.24,
+     -0.3
+    ],
+    [
+     11.9,
+     8.64,
+     -14.7
+    ]
+   ]
+  },
+  {
+   "name": "house_exterior",
+   "file": "house_exterior.glb",
+   "tris": 31644,
+   "bounds": [
+    [
+     -17.33,
+     -0.19,
+     17.81
+    ],
+    [
+     16.15,
+     25.0,
+     -18.99
+    ]
+   ]
+  },
+  {
+   "name": "grounds_terrain",
+   "file": "grounds_terrain.glb",
+   "tris": 16940,
+   "bounds": [
+    [
+     -70.0,
+     -0.37,
+     60.0
+    ],
+    [
+     70.0,
+     1.45,
+     -33.6
+    ]
+   ]
+  },
+  {
+   "name": "grounds_props",
+   "file": "grounds_props.glb",
+   "tris": 52736,
+   "bounds": [
+    [
+     -30.37,
+     -0.44,
+     41.91
+    ],
+    [
+     30.38,
+     12.4,
+     -20.34
+    ]
+   ]
+  },
+  {
+   "name": "tantrik",
+   "file": "tantrik.glb",
+   "tris": 89810,
+   "bounds": [
+    [
+     -11.96,
+     -1.71,
+     -7.9
+    ],
+    [
+     -0.2,
+     2.23,
+     -14.85
+    ]
+   ]
+  },
+  {
+   "name": "faith_gallery",
+   "file": "faith_gallery.glb",
+   "tris": 19538,
+   "bounds": [
+    [
+     -0.82,
+     5.62,
+     -14.17
+    ],
+    [
+     0.82,
+     8.61,
+     -14.67
+    ]
+   ]
+  },
+  {
+   "name": "backdrop",
+   "file": "backdrop.glb",
+   "tris": 548,
+   "bounds": [
+    [
+     -90.0,
+     0.0,
+     0.5
+    ],
+    [
+     90.0,
+     19.63,
+     -57.0
+    ]
+   ]
+  }
+ ],
+ "dynamic": "dynamic.glb"
+}

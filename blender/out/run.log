@@ -1,0 +1,293 @@
+NOTE viewport/render visibility differs on 66 ['GH_DustSpeck', 'GH_Rail_Gallery_L', 'GH_Rail_Gallery_R', 'PLAN_BatPath', 'PLAN_Beat_01', 'PLAN_Beat_02', 'PLAN_Beat_03', 'PLAN_Beat_04', 'PLAN_Beat_05', 'PLAN_Beat_06', 'PLAN_Beat_07', 'PLAN_Beat_08', 'PLAN_Beat_09', 'PLAN_Beat_10', 'PLAN_Beat_11']
+FROZE 65 animated lights at their average strength
+FX {'cobwebs': 115, 'volumes': 5, 'emitters': 1, 'lights': 77, 'weather': 3}
+REALISED 244 instances {'PROP_Grounds_NamePlateLetters_01': 1, 'PROP_Grounds_FenceLine_01': 145, 'PROP_Grounds_PicketGarden_01': 50, 'PROP_Grounds_PicketGrave_01': 48}
+DELETE 450 objects
+RIGGED 71 static parents
+DECIMATE PROP_Crucifix_Gallery_Corpus_01: 37920 -> 6000
+DECIMATE PROP_Crucifix_Gallery_Perizoma_01: 9680 -> 6000
+DECIMATE PROP_GreatHall_Bookshelves_01_Books: 7236 -> 6000
+DECIMATE PROP_Grounds_GateSkeleton_01: 13392 -> 6000
+DECIMATE PROP_Grounds_ScrapCar_Body_01: 25536 -> 6000
+DECIMATE PROP_Grounds_Terrain_01: 38852 -> 6000
+DECIMATE TR_Floor_Flagstones_01: 12108 -> 6000
+DECIMATE TR_Marigolds_PetalsRice_01: 62572 -> 7508
+DECIMATE TR_PujaThali_BellConchLota_01: 6602 -> 6000
+DECIMATE TR_Rudraksha_Threads_01: 8236 -> 6000
+DECIMATE TR_Seeds_Ash_01: 27840 -> 6000
+DECIMATE TR_Walls_StoneCourses_01: 49356 -> 6000
+STATIC TRIS 554216 -> 328394
+SAVED prepared.blend
+UV hall_structure: 145 objects, atlas 2048px, coverage 37%
+UV hall_props: 285 objects, atlas 2048px, coverage 26%
+UV house_exterior: 125 objects, atlas 2048px, coverage 35%
+UV grounds_terrain: 19 objects, atlas 2048px, coverage 68%
+UV grounds_props: 333 objects, atlas 2048px, coverage 22%
+UV tantrik: 42 objects, atlas 2048px, coverage 34%
+UV faith_gallery: 9 objects, atlas 1024px, coverage 45%
+UV backdrop: 2 objects, atlas 1024px, coverage 43%
+UV moving: 125 objects, atlas 2048px, coverage 45%
+SAVED uv.blend
+VIEWS [{"name": "CAM_GreatHall_Doorway", "position": [0.0, 3.312, -2.325], "target": [0.0, 5.25, -13.392], "fov": 73.74}, {"name": "CAM_GreatHall_PlanTop", "position": [0.0, 37.5, -7.5], "target": [0.0, 21.393, -7.5], "fov": 26.99}, {"name": "CAM_GreatHall_Walk", "position": [0.0, 1.54, 49.0], "target": [0.0, 10.562, -0.375], "fov": 67.38}, {"name": "CAM_Reference_EyeLevel", "position": [0.4, 1.65, 21.7], "target": [0.366, 3.0, 17.506], "fov": 60.69}, {"name": "CAM_ThreeQuarter_Back", "position": [19.0, 5.5, -25.0], "target": [9.5, 6.5, -15.0], "fov": 49.55}, {"name": "CAM_ThreeQuarter_FrontLeft", "position": [-21.0, 3.0, 15.0], "target": [-4.45, 7.137, 0.105], "fov": 53.13}]
+BAKE hall_structure: 145 objects, 26 materials, 512px, 16 spp
+BAKED hall_structure in 104s
+DENOISED C:\Projects\haunted_portfolio\blender\out\bake\hall_structure_lm.png 512 512 AgX AgX - High Contrast
+BAKE hall_props: 285 objects, 27 materials, 512px, 16 spp
+BAKED hall_props in 188s
+DENOISED C:\Projects\haunted_portfolio\blender\out\bake\hall_props_lm.png 512 512 AgX AgX - High Contrast
+BAKE house_exterior: 125 objects, 12 materials, 512px, 16 spp
+BAKED house_exterior in 82s
+DENOISED C:\Projects\haunted_portfolio\blender\out\bake\house_exterior_lm.png 512 512 AgX AgX - High Contrast
+BAKE grounds_terrain: 19 objects, 11 materials, 512px, 16 spp
+BAKED grounds_terrain in 15s
+DENOISED C:\Projects\haunted_portfolio\blender\out\bake\grounds_terrain_lm.png 512 512 AgX AgX - High Contrast
+BAKE grounds_props: 333 objects, 25 materials, 512px, 16 spp
+BAKED grounds_props in 218s
+DENOISED C:\Projects\haunted_portfolio\blender\out\bake\grounds_props_lm.png 512 512 AgX AgX - High Contrast
+BAKE tantrik: 42 objects, 67 materials, 512px, 16 spp
+BAKED tantrik in 28s
+DENOISED C:\Projects\haunted_portfolio\blender\out\bake\tantrik_lm.png 512 512 AgX AgX - High Contrast
+BAKE faith_gallery: 9 objects, 13 materials, 512px, 16 spp
+BAKED faith_gallery in 8s
+DENOISED C:\Projects\haunted_portfolio\blender\out\bake\faith_gallery_lm.png 512 512 AgX AgX - High Contrast
+BAKE backdrop: 2 objects, 2 materials, 512px, 16 spp
+BAKED backdrop in 2s
+DENOISED C:\Projects\haunted_portfolio\blender\out\bake\backdrop_lm.png 512 512 AgX AgX - High Contrast
+BAKE moving: 125 objects, 33 materials, 512px, 16 spp
+BAKED moving in 85s
+DENOISED C:\Projects\haunted_portfolio\blender\out\bake\moving_lm.png 512 512 AgX AgX - High Contrast
+EXPORTED hall_structure.glb 1.7 MB
+EXPORTED hall_props.glb 3.3 MB
+EXPORTED house_exterior.glb 1.7 MB
+EXPORTED grounds_terrain.glb 0.6 MB
+EXPORTED grounds_props.glb 2.5 MB
+EXPORTED tantrik.glb 3.7 MB
+EXPORTED faith_gallery.glb 0.9 MB
+EXPORTED backdrop.glb 0.1 MB
+MOVING 125 animated props use their baked lightmap
+DYNAMIC 405 objects; frames 1 6392
+EXPORTED dynamic.glb 12.5 MB
+DONE
+[33m❯[39m dedup
+[32m✔[39m dedup                4ms
+[33m❯[39m instance
+[32m✔[39m instance             1ms
+[33m❯[39m palette
+[32m✔[39m palette              0ms
+[33m❯[39m flatten
+[32m✔[39m flatten              1ms
+[33m❯[39m join
+[32m✔[39m join                 2ms
+[33m❯[39m weld
+[32m✔[39m weld                 2ms
+[33m❯[39m resample
+[32m✔[39m resample             1ms
+[33m❯[39m prune
+[32m✔[39m prune                17ms
+[33m❯[39m sparse
+[32m✔[39m sparse               2ms
+[33m❯[39m textureCompress
+[32m✔[39m textureCompress      25ms
+[33m❯[39m meshopt
+[32m✔[39m meshopt              11ms
+
+info: backdrop.glb (107.78 KB) → backdrop.glb (7.83 KB)
+[33m❯[39m dedup
+[32m✔[39m dedup                26ms
+[33m❯[39m weld
+[32m✔[39m weld                 62ms
+[33m❯[39m resample
+[32m✔[39m resample             40ms
+[33m❯[39m prune
+[32m✔[39m prune                21ms
+[33m❯[39m sparse
+[32m✔[39m sparse               15ms
+[33m❯[39m textureCompress
+[32m✔[39m textureCompress      29ms
+[33m❯[39m meshopt
+[32m✔[39m meshopt              166ms
+
+info: dynamic.glb (12.49 MB) → dynamic.glb (1.97 MB)
+[33m❯[39m dedup
+[32m✔[39m dedup                2ms
+[33m❯[39m instance
+[32m✔[39m instance             0ms
+[33m❯[39m palette
+[32m✔[39m palette              0ms
+[33m❯[39m flatten
+[32m✔[39m flatten              1ms
+[33m❯[39m join
+[32m✔[39m join                 6ms
+[33m❯[39m weld
+[32m✔[39m weld                 7ms
+[33m❯[39m resample
+[32m✔[39m resample             1ms
+[33m❯[39m prune
+[32m✔[39m prune                12ms
+[33m❯[39m sparse
+[32m✔[39m sparse               3ms
+[33m❯[39m textureCompress
+[32m✔[39m textureCompress      32ms
+[33m❯[39m meshopt
+[32m✔[39m meshopt              32ms
+
+info: faith_gallery.glb (859.81 KB) → faith_gallery.glb (172.18 KB)
+[33m❯[39m dedup
+[32m✔[39m dedup                2ms
+[33m❯[39m instance
+[32m✔[39m instance             1ms
+[33m❯[39m palette
+[32m✔[39m palette              1ms
+[33m❯[39m flatten
+[32m✔[39m flatten              1ms
+[33m❯[39m join
+[32m✔[39m join                 10ms
+[33m❯[39m weld
+[32m✔[39m weld                 15ms
+[33m❯[39m resample
+[32m✔[39m resample             0ms
+[33m❯[39m prune
+[32m✔[39m prune                17ms
+[33m❯[39m sparse
+[32m✔[39m sparse               9ms
+[33m❯[39m textureCompress
+[32m✔[39m textureCompress      34ms
+[33m❯[39m meshopt
+[32m✔[39m meshopt              63ms
+
+info: grounds_props.glb (2.47 MB) → grounds_props.glb (546.86 KB)
+[33m❯[39m dedup
+[32m✔[39m dedup                2ms
+[33m❯[39m instance
+[32m✔[39m instance             0ms
+[33m❯[39m palette
+[32m✔[39m palette              0ms
+[33m❯[39m flatten
+[32m✔[39m flatten              0ms
+[33m❯[39m join
+[32m✔[39m join                 4ms
+[33m❯[39m weld
+[32m✔[39m weld                 5ms
+[33m❯[39m resample
+[32m✔[39m resample             0ms
+[33m❯[39m prune
+[32m✔[39m prune                13ms
+[33m❯[39m sparse
+[32m✔[39m sparse               4ms
+[33m❯[39m textureCompress
+[32m✔[39m textureCompress      22ms
+[33m❯[39m meshopt
+[32m✔[39m meshopt              27ms
+
+info: grounds_terrain.glb (626.24 KB) → grounds_terrain.glb (92.48 KB)
+[33m❯[39m dedup
+[32m✔[39m dedup                3ms
+[33m❯[39m instance
+[32m✔[39m instance             1ms
+[33m❯[39m palette
+[32m✔[39m palette              1ms
+[33m❯[39m flatten
+[32m✔[39m flatten              1ms
+[33m❯[39m join
+[32m✔[39m join                 10ms
+[33m❯[39m weld
+[32m✔[39m weld                 20ms
+[33m❯[39m resample
+[32m✔[39m resample             1ms
+[33m❯[39m prune
+[32m✔[39m prune                11ms
+[33m❯[39m sparse
+[32m✔[39m sparse               8ms
+[33m❯[39m textureCompress
+[32m✔[39m textureCompress      35ms
+[33m❯[39m meshopt
+[32m✔[39m meshopt              76ms
+
+info: hall_props.glb (3.31 MB) → hall_props.glb (650.66 KB)
+[33m❯[39m dedup
+[32m✔[39m dedup                2ms
+[33m❯[39m instance
+[32m✔[39m instance             0ms
+[33m❯[39m palette
+[32m✔[39m palette              0ms
+[33m❯[39m flatten
+[32m✔[39m flatten              1ms
+[33m❯[39m join
+[32m✔[39m join                 6ms
+[33m❯[39m weld
+[32m✔[39m weld                 13ms
+[33m❯[39m resample
+[32m✔[39m resample             1ms
+[33m❯[39m prune
+[32m✔[39m prune                12ms
+[33m❯[39m sparse
+[32m✔[39m sparse               6ms
+[33m❯[39m textureCompress
+[32m✔[39m textureCompress      30ms
+[33m❯[39m meshopt
+[32m✔[39m meshopt              55ms
+
+info: hall_structure.glb (1.72 MB) → hall_structure.glb (404.41 KB)
+[33m❯[39m dedup
+[32m✔[39m dedup                2ms
+[33m❯[39m instance
+[32m✔[39m instance             0ms
+[33m❯[39m palette
+[32m✔[39m palette              0ms
+[33m❯[39m flatten
+[32m✔[39m flatten              1ms
+[33m❯[39m join
+[32m✔[39m join                 6ms
+[33m❯[39m weld
+[32m✔[39m weld                 12ms
+[33m❯[39m resample
+[32m✔[39m resample             1ms
+[33m❯[39m prune
+[32m✔[39m prune                14ms
+[33m❯[39m sparse
+[32m✔[39m sparse               5ms
+[33m❯[39m textureCompress
+[32m✔[39m textureCompress      27ms
+[33m❯[39m meshopt
+[32m✔[39m meshopt              44ms
+
+info: house_exterior.glb (1.66 MB) → house_exterior.glb (433.74 KB)
+[33m❯[39m dedup
+[32m✔[39m dedup                3ms
+[33m❯[39m instance
+[32m✔[39m instance             1ms
+[33m❯[39m palette
+[32m✔[39m palette              0ms
+[33m❯[39m flatten
+[32m✔[39m flatten              1ms
+[33m❯[39m join
+[32m✔[39m join                 11ms
+[33m❯[39m weld
+[32m✔[39m weld                 22ms
+[33m❯[39m resample
+[32m✔[39m resample             0ms
+[33m❯[39m prune
+[32m✔[39m prune                13ms
+[33m❯[39m sparse
+[32m✔[39m sparse               10ms
+[33m❯[39m textureCompress
+[32m✔[39m textureCompress      35ms
+[33m❯[39m meshopt
+[32m✔[39m meshopt              85ms
+
+info: tantrik.glb (3.67 MB) → tantrik.glb (802.07 KB)
+total 5044
+drwxr-xr-x 1 dhruv 197610       0 Oct  9 15:05 .
+drwxr-xr-x 1 dhruv 197610       0 Oct  9 15:04 ..
+-rw-r--r-- 1 dhruv 197610    7832 Oct 10 12:27 backdrop.glb
+-rw-r--r-- 1 dhruv 197610 1972312 Oct 10 12:27 dynamic.glb
+-rw-r--r-- 1 dhruv 197610  172180 Oct 10 12:27 faith_gallery.glb
+-rw-r--r-- 1 dhruv 197610   55754 Oct 10 12:27 fx.json
+-rw-r--r-- 1 dhruv 197610  546860 Oct 10 12:27 grounds_props.glb
+-rw-r--r-- 1 dhruv 197610   92476 Oct 10 12:27 grounds_terrain.glb
+-rw-r--r-- 1 dhruv 197610  650656 Oct 10 12:27 hall_props.glb
+-rw-r--r-- 1 dhruv 197610  404412 Oct 10 12:27 hall_structure.glb
+-rw-r--r-- 1 dhruv 197610  433740 Oct 10 12:27 house_exterior.glb
+-rw-r--r-- 1 dhruv 197610    1765 Oct 10 12:27 manifest.json
+-rw-r--r-- 1 dhruv 197610  802068 Oct 10 12:27 tantrik.glb
+-rw-r--r-- 1 dhruv 197610     993 Oct 10 12:27 viewpoints.json

@@ -1,0 +1,86 @@
+[
+ {
+  "name": "CAM_GreatHall_Doorway",
+  "position": [
+   0.0,
+   3.312,
+   -2.325
+  ],
+  "target": [
+   0.0,
+   5.25,
+   -13.392
+  ],
+  "fov": 73.74
+ },
+ {
+  "name": "CAM_GreatHall_PlanTop",
+  "position": [
+   0.0,
+   37.5,
+   -7.5
+  ],
+  "target": [
+   0.0,
+   21.393,
+   -7.5
+  ],
+  "fov": 26.99
+ },
+ {
+  "name": "CAM_GreatHall_Walk",
+  "position": [
+   0.0,
+   1.54,
+   49.0
+  ],
+  "target": [
+   0.0,
+   10.562,
+   -0.375
+  ],
+  "fov": 67.38
+ },
+ {
+  "name": "CAM_Reference_EyeLevel",
+  "position": [
+   0.4,
+   1.65,
+   21.7
+  ],
+  "target": [
+   0.366,
+   3.0,
+   17.506
+  ],
+  "fov": 60.69
+ },
+ {
+  "name": "CAM_ThreeQuarter_Back",
+  "position": [
+   19.0,
+   5.5,
+   -25.0
+  ],
+  "target": [
+   9.5,
+   6.5,
+   -15.0
+  ],
+  "fov": 49.55
+ },
+ {
+  "name": "CAM_ThreeQuarter_FrontLeft",
+  "position": [
+   -21.0,
+   3.0,
+   15.0
+  ],
+  "target": [
+   -4.45,
+   7.137,
+   0.105
+  ],
+  "fov": 53.13
+ }
+]
